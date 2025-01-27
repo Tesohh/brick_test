@@ -1,0 +1,5 @@
+[brick]
+name = "brick_test"
+kind = "library"
+lang = "c"
+edition = "c99"
