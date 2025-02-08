@@ -7,5 +7,6 @@ typedef struct {
 } BrickTest;
 
 void brick_test();
+void brick_test_beta();
 
 #endif
