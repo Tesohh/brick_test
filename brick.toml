@@ -3,3 +3,6 @@ name = "brick_test"
 kind = "library"
 lang = "c"
 edition = "c99"
+
+[brick.overrides]
+build = "echo \"compiling brick_test\"; bricks build ."
